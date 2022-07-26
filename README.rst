@@ -17,6 +17,7 @@ Features
 - add FAQ sections and move sections up and down via admin/plugins using jQuery
 - notify new users to checkout the FAQ
 - all text and css customizable via admin/plugins
+- support for multiple languages
 
 ------------
 Installation
